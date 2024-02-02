@@ -15,5 +15,4 @@ make
 open http://localhost:8000 # in browser
 ```
 
-![screenshot](/screenshot.png?raw=true
 
