@@ -1,6 +1,6 @@
-# ollama-ui
+# BROllama-ui
 
-Just a simple HTML UI for Ollama
+HTML UI for BROllama
 
 Now available as a chrome extension!
 https://chrome.google.com/webstore/detail/ollama-ui/cmgdpmlhgjhoadnonobjeekmfcehffco
@@ -8,12 +8,12 @@ https://chrome.google.com/webstore/detail/ollama-ui/cmgdpmlhgjhoadnonobjeekmfceh
 ## Usage
 
 ```
-git clone https://github.com/ollama-ui/ollama-ui
+git clone https://github.com/DeltaVML/BROllama-ui
 cd ollama-ui
 make
 
 open http://localhost:8000 # in browser
 ```
 
-![screenshot](/screenshot.png?raw=true)
+![screenshot](/screenshot.png?raw=true
 
