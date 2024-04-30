@@ -8,8 +8,8 @@ https://chrome.google.com/webstore/detail/ollama-ui/cmgdpmlhgjhoadnonobjeekmfceh
 ## Usage
 
 ```
-git clone https://github.com/DeltaVML/BROllama-ui
-cd ollama-ui
+git clone https://github.com/aisiml/RAGE-ui
+cd RAGE-ui
 make
 
 open http://localhost:8000 # in browser
