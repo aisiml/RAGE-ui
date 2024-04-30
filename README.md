@@ -1,7 +1,8 @@
 # RAGE-ui
 
 Retrieval Augemented Generative Engine<br />
-integration of mondodb-atlas, llamaindex and ollama for RAGE<br />
+
+project goals: integration of mondodb-atlas, llamaindex and ollama for RAGE as UIUX expression<br />
 
 ## Usage for Debian based Linux tested on Ubuntu 22.04LTS and Linux Mint<br />
 ```
