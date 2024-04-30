@@ -1,9 +1,7 @@
-# BROllama-ui
+# RAGE-ui
 
-HTML UI for BROllama
-
-Now available as a chrome extension!
-https://chrome.google.com/webstore/detail/ollama-ui/cmgdpmlhgjhoadnonobjeekmfcehffco
+Retrieval Augemented Generative Engine<br />
+integration of mondodb-atlas, llamaindex and ollama for RAGE<br />
 
 ## Usage
 
