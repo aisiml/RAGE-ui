@@ -6,18 +6,31 @@ integration of mondodb-atlas, llamaindex and ollama for RAGE<br />
 ## Usage for Debian based Linux tested on Ubuntu 22.04LTS and Linux Mint<br />
 sudo apt install git make<br />
 
-To set up a complete development environment on a Linux system using make for a variety of programming and building tasks, you will need several tools and libraries depending on the specifics of your projects. Here is a comprehensive list of common requirements:
+To create a full and complete development environment on a Linux system using make for a variety of programming and building tasks, you will need several tools and libraries depending on the specifics of your projects. Here is a comprehensive list of common requirements:<br />
 
-Essential Tools
-GNU Make
-Install with: sudo apt install make
+GNU Make<br />
+```
+sudo apt install make
+``` <br />
 Compilers
-GCC for C/C++: sudo apt install gcc g++
-GFortran for Fortran: sudo apt install gfortran
+
+GCC for C/C++<br />
+```
+ sudo apt install gcc g++
+```
+GFortran for Fortran<br />
+```
+sudo apt install gfortran
+```
+
 Build Essentials
-Includes compilers and libraries: sudo apt install build-essential
-Automake and Autoconf
-Auto-tools for generating makefiles: sudo apt install automake autoconf
+```
+sudo apt install build-essential
+```
+Auto-tools for generating makefiles
+```
+sudo apt install automake autoconf
+```
 Libtool
 Generic library support script: sudo apt install libtool
 Pkg-config
@@ -28,8 +41,10 @@ Install with: sudo apt install gdb
 Valgrind
 Memory debugging: sudo apt install valgrind
 Version Control
-Git
-For version control: sudo apt install git
+Git For version control
+```
+sudo apt install git
+```
 
 ```
 git clone https://github.com/aisiml/RAGE-ui && cd RAGE-ui && git clone https://github.com/aisiml/RAGE-ui && cd RAGE-ui && make
