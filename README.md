@@ -48,10 +48,6 @@ Git For version control
 sudo apt install git
 ```
 
-```
-git clone https://github.com/aisiml/RAGE-ui && cd RAGE-ui && git clone https://github.com/aisiml/RAGE-ui && cd RAGE-ui && make
-```
-
 open <a href="http://localhost:8000">http://localhost:8000</a> # in browser
 
 
