@@ -8,7 +8,7 @@ integration of mondodb-atlas, llamaindex and ollama for RAGE<br />
 sudo apt install git make
 ```
 ```
-git clone https://github.com/aisiml/RAGE-ui && cd RAGE-ui && git clone https://github.com/aisiml/RAGE-ui && cd RAGE-ui && make
+git clone https://github.com/aisiml/RAGE-ui && cd RAGE-ui && make
 ```
 
 open <a href="http://localhost:8000">http://localhost:8000</a> # in browser
