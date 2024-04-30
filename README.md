@@ -4,7 +4,9 @@ Retrieval Augemented Generative Engine<br />
 integration of mondodb-atlas, llamaindex and ollama for RAGE<br />
 
 ## Usage for Debian based Linux tested on Ubuntu 22.04LTS and Linux Mint<br />
-sudo apt install git make<br />
+```
+sudo apt install git make
+```
 
 To create a full and complete development environment on a Linux system using make for a variety of programming and building tasks, you will need several tools and libraries depending on the specifics of your projects. Here is a comprehensive list of common requirements:<br />
 
